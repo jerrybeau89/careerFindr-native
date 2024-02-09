@@ -32,6 +32,7 @@ export default function Home () {
                     <Welcome />
                     <PopularJobs/>
                     <NearbyJobs/>
+                    
                 </View>
             </ScrollView>
         </SafeAreaView>
