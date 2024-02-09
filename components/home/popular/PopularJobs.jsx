@@ -11,7 +11,7 @@ import { useRouter } from "expo-router";
 import styles from "./popularjobs.style";
 import { COLORS, SIZES } from "../../../constants";
 import PopularJobCard from "../../common/cards/popular/PopularJobCard";
-import { isLoaded, isLoading } from "expo-font";
+// import { isLoaded, isLoading } from "expo-font";
 import useFetch from '../../../hook/useFetch'
 
 export default function PopularJobs() {
